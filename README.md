@@ -1,6 +1,6 @@
 # Blueway - Blog Website
 
-Welcome to Blueway, your gateway to the world of blogging and content sharing.
+Welcome to Rahul-Blogs, your gateway to the world of blogging and content sharing.
 
 
 ## Description
@@ -22,13 +22,13 @@ To set up Blueway locally, follow these steps:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/taiwo-adewale/blueway.git
+https://github.com/rahulsamanta82/Rahul-Blogs.git
 ```
 
 ### Navigate to the project directory:
 
 ```bash
-cd blueway
+cd Rahul-Blogs
 ```
 
 ### Install dependencies:
@@ -45,7 +45,7 @@ npm run dev
 
 ## Usage
 
-Blueway is your platform for creating and sharing blog posts. Write articles, engage with your readers, and foster discussions.
+Rahul-Blogs is your platform for creating and sharing blog posts. Write articles, engage with your readers, and foster discussions.
 
 ## Contribution
 
