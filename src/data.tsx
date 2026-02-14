@@ -97,11 +97,11 @@ export const tags: tagsType[] = [
 
 const authors: Author[] = [
   {
-    name: "Taiwo Adewale",
+    name: "Rahul Samanta",
     image: images.author01,
   },
   {
-    name: "Sophie Dee",
+    name: "Priya Bera",
     image: images.author02,
   },
 ];

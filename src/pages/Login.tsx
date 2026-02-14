@@ -16,8 +16,8 @@ const Login = () => {
 
         <div className="login-box w-full bg-white xs:py-8 py-[50px] px-6 sm:px-[50px] flex flex-col text-center">
           <h3 className="text-2xl sm:text-3xl font-bold mb-4">
-            Welcome back to <span className="text-primary font-primary">B</span>
-            lueway
+            Welcome back to <span className="text-primary font-primary">R</span>
+            ahul Blogs
           </h3>
           <p className="text-base">Thoughts, stories and ideas.</p>
 
@@ -60,7 +60,7 @@ const Login = () => {
               href="#"
               className="font-secondary font-bold text-btnPrimary transition-all duration-300 hover-underline"
             >
-              Netlify
+              Vercel || RAHUL
             </a>
           </p>
         </div>

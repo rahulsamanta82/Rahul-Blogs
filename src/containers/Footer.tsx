@@ -67,7 +67,7 @@ const Footer = () => {
               />
               <div className="flex flex-col">
                 <a href="#" className="font-bold mb-1">
-                  Taiwo Adewale
+                  Rahul Samanta
                 </a>
                 <span className="text-xs sm:text-sm mb-4">
                   Collaborator & Editor
@@ -88,7 +88,7 @@ const Footer = () => {
                     <FaFacebookF className="text-base fill-[#175BEB]" />
                   </a>
                   <a
-                    href="https://wale-portfolio.netlify.app"
+                    href="https://mr-rahul.vercel.app/"
                     className="px-0.5"
                   >
                     <FaGlobeAmericas className="text-base fill-primary" />
@@ -97,9 +97,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-sm mt-4">
-              Hello! My name is Taiwo Adewale working from Nigeria. I create
-              websites for differents markets. Also, i offer live support via
-              our ticket system.
+              Hello! I’m Rahul Samanta, a dedicated software developer specializing in modern web technologies. I design and develop responsive, user-focused web applications with clean architecture and optimized performance. With hands-on project experience and a strong technical foundation, I aim to build reliable, scalable solutions that solve real-world problems.
             </p>
           </div>
         </div>
@@ -146,7 +144,7 @@ const Footer = () => {
             href="#"
             className="font-secondary font-bold text-btnPrimary transition-all duration-300 hover-underline"
           >
-            Netlify
+            Vercel || RAHUL 
           </a>
         </p>
       </div>

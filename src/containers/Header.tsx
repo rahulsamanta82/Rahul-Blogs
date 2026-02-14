@@ -30,7 +30,7 @@ const Header = () => {
             href="/"
             className="md:w-1/3 text-center xs:text-[35px] text-[40px] md:text-[50px] xl:text-6xl text-heading font-bold hover:-translate-y-[2px] transition-all duration-300"
           >
-            <span className="text-primary font-primary">B</span>lueway
+            <span className="text-primary font-primary">R</span>ahul Blogs
           </a>
           <div className="md:w-1/3">
             <button
