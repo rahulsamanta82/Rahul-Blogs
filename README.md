@@ -5,7 +5,8 @@ Welcome to Blueway, your gateway to the world of blogging and content sharing.
 
 ## Description
 
-Blueway is a sleek and modern blog website developed using Next.js and Tailwind CSS. It's the perfect platform for sharing your thoughts, stories, and articles with the world.
+Rahul Blogs is a sleek and modern blog website developed using Next.js and Tailwind CSS. It's the perfect platform for sharing your thoughts, stories, and articles with the world.
+![Screenshot](src/assets/image.png)
 
 ## Technologies Used
 
