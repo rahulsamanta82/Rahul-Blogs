@@ -2,7 +2,6 @@
 
 Welcome to Blueway, your gateway to the world of blogging and content sharing.
 
-![Page screenshot](https://blueway01.netlify.app/screenshots/page.png)
 
 ## Description
 
@@ -56,6 +55,3 @@ Contributions to Blueway are welcome. If you'd like to contribute, please follow
 3. Make your changes, ensuring clear code and comments.
 4. Submit a pull request, describing your changes in detail.
 
-## Contact
-
-For questions, feedback, or inquiries, feel free to reach out to us at [adewaletaiwo08@gmail.com](mailto:adewaletaiwo08@gmail.com).
